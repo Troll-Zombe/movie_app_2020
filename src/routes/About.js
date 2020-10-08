@@ -13,4 +13,4 @@ function About(props) {
     )
 }
 
-export default import('react').AnchorHTMLAttributes;
+export default About;
